@@ -16,7 +16,7 @@
 ### *🌟 WHERE 2D MATHEMATICS CREATES 3D MAGIC 🌟*
 
 [![🚀 LIVE DEMO](https://img.shields.io/badge/🚀-LIVE%20DEMO-ff6b6b?style=for-the-badge&logoColor=white)](https://dimension-2-5.vercel.app/)
-[![⭐ STAR ME](https://img.shields.io/badge/⭐-STAR%20THIS%20REPO-yellow?style=for-the-badge&logo=github)](https://github.com/thehardiik/Dimension2.5)
+[![⭐ STAR ME](https://img.shields.io/badge/⭐-STAR%20THIS%20REPO-yellow?style=for-the-badge&logo=github)](https://github.com/thehardiik/Dimension-2.5)
 </div>
 
 ---
