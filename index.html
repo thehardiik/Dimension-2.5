@@ -3,13 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Dimension 2.5</title>
+    <link rel="icon" type="image/png" href="icon.png">
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #1a1a1a;
+            color: #ffffff;
+            font-family: 'Segoe UI', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        h1 {
+            font-size: 1.8rem;
+            margin: 0 0 10px 0;
+            font-weight: 500;
+            letter-spacing: 1px;
+            margin-top: 10vh;
+            margin-bottom: 5vh;
+        }
+        
+        .controls {
+            background: #2a2a2a;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+            text-align: center;
+        }
+        
+        .controls span {
+            margin: 0 15px;
+            opacity: 0.8;
+        }
+        
+        .key {
+            color: #4CAF50;
+            font-weight: 500;
+        }
+    </style>
 </head>
-<style>
-    body {display:flex; justify-content: center; align-items: center}
-</style>
 
 <body>
+    <h1>Dimension 2.5</h1>
+    
+    <div class="controls">
+        <span><span class="key">W</span> Move Up</span>
+        <span><span class="key">A</span> Move Left</span>
+        <span><span class="key">D</span> Move Right</span>
+        <span><span class="key">S</span> Move down</span>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/p5@1.11.1/lib/p5.min.js"></script>
     <script src="sketch.js"></script>
     <script src="boundary.js"></script>
