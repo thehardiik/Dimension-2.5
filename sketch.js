@@ -51,6 +51,14 @@ function draw(){
         particle.rotate(-0.05);
     }
 
+    if(keyIsDown(87)){
+        particle.move(4);
+    }
+
+    if(keyIsDown(83)){
+        particle.move(2);
+    }
+
     background(0);
 
     for(let wall of walls){
