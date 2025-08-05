@@ -15,7 +15,7 @@
 
 ### *🌟 WHERE 2D MATHEMATICS CREATES 3D MAGIC 🌟*
 
-[![🚀 LIVE DEMO](https://img.shields.io/badge/🚀-LIVE%20DEMO-ff6b6b?style=for-the-badge&logoColor=white)](https://your-demo-link.com)
+[![🚀 LIVE DEMO](https://img.shields.io/badge/🚀-LIVE%20DEMO-ff6b6b?style=for-the-badge&logoColor=white)](https://dimension-2-5.vercel.app/)
 [![⭐ STAR ME](https://img.shields.io/badge/⭐-STAR%20THIS%20REPO-yellow?style=for-the-badge&logo=github)](https://github.com/thehardiik/Dimension2.5)
 </div>
 
@@ -69,7 +69,7 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-srivastav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-srivastav-164728252/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thehardiik)
 
 **Dhanyawad**
